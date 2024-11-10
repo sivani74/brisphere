@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.details-container {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.details-title {
+  text-align: center;
+  font-weight: 500;
+}
+
+.avatar-author-container {
+  display: flex;
+  align-items: center;
+}
+
+.details-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.content {
+  color: #8e8e8e;
+}

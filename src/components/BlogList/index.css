@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.blog-list-link-item {
+  text-decoration: none;
+  color: #000000;
+}
+.blog-list-item {
+  display: flex;
+  margin-bottom: 10px;
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 500;
+}
+
+.blog-list-image {
+  width: 180px;
+  margin-right: 10px;
+}
+
+.avatar-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.blog-item-avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin-right: 5px;
+}
