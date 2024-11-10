@@ -1,4 +1,4 @@
-.about-container {
+.discover-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -28,4 +28,8 @@
   font-size: 20px;
   text-align: center;
   color: #555555;
+}
+.blogs-list-container {
+  display: flex;
+  flex-wrap: wrap;
 }

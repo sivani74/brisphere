@@ -1,72 +1,56 @@
-{
+[
+  {
     "id": 1,
-    "title": "React v16.9.0 and the Roadmap Update",
-    "image_url": "https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png",
-    "avatar_url": "https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg",
-    "author": "Dan Abramov,",
-    "topic": "React.js"
+    "title": "High speed internet",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731212370/wifi-icon-symbol-wireless-internet-260nw-1657772833_adgaej.jpg",
+    "topic": "Optical fibre connections provided in not only in yur cabins but rather to all of the Brisphere scenic working spaces and dining areas"
   },
   {
     "id": 2,
-    "title": "React v16.7: No, This Is Not the One With Hooks",
-    "image_url": "https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png",
-    "avatar_url": "https://avatars.githubusercontent.com/u/3624098?v=4",
-    "author": "Andrew Clark",
-    "topic": "React.js"
+    "title": "Healthy Meals",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212484/124972-200_smowtr.png",
+    "topic": "A healthy breakfast and pleasant dinner will be served at your space every single day for your entire duration of stay with option of paid order within Brisphere"
   },
   {
     "id": 3,
-    "title": "Building Great User Experiences with Concurrent Mode and Suspense",
-    "image_url": "https://cdn.buttercms.com/O007i3wQgmRBu4ru92yF",
-    "avatar_url": "https://images.squarespace-cdn.com/content/v1/6042ecd4513f6b5c4dc91aaf/1615155824885-GIE4JGQZG2QOVGL294PK/ke17ZwdGBToddI8pDm48kF4bdfD-ia1l4Dx5GCxoHspZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyFxcEUL_E3rtTKOK6YDZfFOvno4nmWnq-VrpVZhpg5d7A5XYUWepj6KEiZHiJnCAU/Screen+Shot+2021-03-07+at+5.23.16+PM.png",
-    "author": "Joseph Savona",
-    "topic": "React.js"
+    "title": "Home Stay",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212500/home-icon-illustration-image-vector_eb3pbz.jpg",
+    "topic": "Designed for working professionals with spacious interiors, comfortable beds and sleeky attached kitchen are some of the comforts provided in your space"
   },
   {
     "id": 4,
-    "title": "Introducing The Problem Solver React v17.0",
-    "image_url": "https://i.morioh.com/201014/e14da0fb.webp",
-    "avatar_url": "https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg",
-    "author": "Dan Abramov,",
-    "topic": "ReactJs"
+    "title": "Transportation",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212547/black-white-car-icon-transportation-logo-vector-25575723_plbn8u.jpg",
+    "topic": "Optical fibre connections provided in not only in yur cabins but rather to all of the Brisphere scenic working spaces and dining areas"
   },
   {
     "id": 5,
-    "title": "What about the React v16.13.0 That we Developed",
-    "image_url": "https://www.hkinfosoft.com/wp-content/uploads/2020/02/react-banner.png",
-    "avatar_url": "https://i.pinimg.com/280x280_RS/2d/61/90/2d6190d6a11e233ee84cac73cc8a7e5f.jpg",
-    "author": "Sunil Pai",
-    "topic": "ReactJs"
+    "title": "Food Delivery",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212588/free-fast-food-delivery-bike-icon-12992-thumb_rivl8o.png",
+    "topic": "A healthy breakfast and pleasant dinner will be served at your space every single day for your entire duration of stay with option of paid order within Brisphere"
   },
   {
     "id": 6,
-    "title": "React v16.4.2: Server-side vulnerability fix",
-    "image_url": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/eSpohinjrEQFb4B54C2RGDQi/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882",
-    "avatar_url": "https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg",
-    "author": "Dan Abramov,",
-    "topic": "React.js"
+    "title": "Tourism",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212695/guide-booklet-travel-tourism-map-line-icon-outline-vector-sign-point-location-248283995_mplflv.jpg",
+    "topic": "Designed for working professionals with spacious interiors, comfortable beds and sleeky attached kitchen are some of the comforts provided in your space"
   },
   {
     "id": 7,
-    "title": "Introducing Zero-Bundle-Size React Server Components",
-    "image_url": "https://ahmadawais.com/wp-content/uploads/2020/12/react-server-components.jpg",
-    "avatar_url": "https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg",
-    "author": "Dan Abramov,",
-    "topic": "ReactJs"
+    "title": "Job",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212750/job-portal-icon-set-employment-hiring-vector-symbol-black-filled-outlined-style-human-resource-briefcase-white-colors-eps-337648662_otjouw.jpg",
+    "topic": "Optical fibre connections provided in not only in your cabins but rather to all of the Brisphere scenic working spaces and dining areas"
   },
   {
     "id": 8,
-    "title": "Introducing the New JSX Transform",
-    "image_url": "https://assets.ccbp.in/frontend/content/react-js/introducing-the-new-jsx-transform.png",
-    "avatar_url": "https://reactjs.org/static/afb31f3065fd4e93dc7c21e8d316983e/b17f8/lunaruan.jpg",
-    "author": "Luna Ruan",
-    "topic": "ReactJs"
+    "title": "Rental Service",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212782/car-vehicle-rent-icon_gymlqa.svg",
+    "topic": "A healthy breakfast and pleasant dinner will be served at your space every single day for your entire duration of stay with option of paid order within Brisphere"
   },
   {
     "id": 9,
-    "title": "Introducing the New React DevTools",
-    "image_url": "https://reactjs.org/static/9552e88d7605ef4e547af89096a9225d/1e088/devtools-v4-screenshot.png",
-    "avatar_url": "https://egghead.io/_next/image?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F2ac34c%2F2ac34cab-4949-40aa-bac7-d7e3a70f0a39%2F4c24a78b-f2fd-41f2-87e9-265ead1acb93%2F1534346357artwork.jpg&w=384&q=75",
-    "author": "Brian Vaughn",
-    "topic": "React.js"
+    "title": "Online Shop",
+    "image_url": "https://res.cloudinary.com/ddv6mvzyc/image/upload/v1731212817/f2124e83e9fd8ddeb31ac7cdb59f544c_gnvy2q.jpg",
+    "topic": "Designed for working professionals with spacious interiors, comfortable beds and sleeky attached kitchen are some of the comforts provided in your space"
   }
+]

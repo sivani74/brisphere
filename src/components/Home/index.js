@@ -1,10 +1,10 @@
-import UserInfo from '../UserInfo'
+import HomePage from '../HomePage'
 
 import './index.css'
 
 const Home = () => (
   <div className="home-container">
-    <UserInfo />
+    <HomePage />
   </div>
 )
 

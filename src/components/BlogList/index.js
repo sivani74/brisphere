@@ -13,11 +13,11 @@ class BlogList extends Component {
   }
 
   getBlogsList = async () => {
-    const response = await fetch('https://apis.ccbp.in/blogs')
+    const response = await fetch(
+      'https://mocki.io/v1/c9005c6e-c1c4-4a7f-8652-a87d799787ee',
+    )
     const data = await response.json()
     const formatedData = data.map(eachItem => ({
-      author: eachItem.author,
-      avatarUrl: eachItem.avatar_url,
       id: eachItem.id,
       imageUrl: eachItem.image_url,
       title: eachItem.title,
@@ -35,11 +35,14 @@ class BlogList extends Component {
   renderBlogsListView = () => {
     const {blogsList} = this.state
     return (
-      <ul className="blogs-list-container">
-        {blogsList.map(eachItem => (
-          <BlogItem key={eachItem.id} blogDetails={eachItem} />
-        ))}
-      </ul>
+      <>
+        <h1>Services</h1>
+        <ul className="blogs-list-container">
+          {blogsList.map(eachItem => (
+            <BlogItem key={eachItem.id} blogDetails={eachItem} />
+          ))}
+        </ul>
+      </>
     )
   }
 

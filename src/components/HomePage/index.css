@@ -1,0 +1,54 @@
+.user-info-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  background-color: rgb(235, 239, 242);
+  padding: 20px;
+}
+.work-container {
+}
+
+.profile-img {
+  background-color: #ffffff;
+  margin-top: 31px;
+  width: 50%;
+}
+
+.user-name {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 18px;
+  color: #12022f;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.user-designation {
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 14px;
+  text-align: center;
+  color: #616e7c;
+}
+.adress-container {
+  align-self: flex-start;
+  margin: 30px;
+  background-color: #e6eaef;
+  width: 100%;
+  padding: 30px;
+}
+.loc-btn {
+  background-color: rgb(80, 80, 213);
+  border: none;
+  border-radius: 15px;
+  width: 100px;
+  height: 50px;
+  color: white;
+}
+.booking-container {
+  display: flex;
+  width: 70%;
+  justify-content: space-around;
+  margin: 10px;
+}
